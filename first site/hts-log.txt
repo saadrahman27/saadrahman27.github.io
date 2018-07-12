@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 12 Jul 2018 22:27:59 at http://localhost/dada/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/dada/ -O1 "C:\My Web Sites\first site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:28:05	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 1743): localhost/dada/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3
+22:29:54	Error: 	"Bad Request" (400) at link localhost/dada/wp-admin/admin-ajax.php (from localhost/dada/)
+22:33:37	Warning: 	Moved Permanently for localhost/dada/?p=2317
+22:33:37	Warning: 	File has moved from localhost/dada/?p=2317 to http://localhost/dada/destinations/
+22:33:37	Warning: 	Moved Permanently for localhost/dada/?p=2338
+22:33:37	Warning: 	File has moved from localhost/dada/?p=2338 to http://localhost/dada/who-we-are/
+22:33:37	Warning: 	Moved Permanently for localhost/dada/?p=2321
+22:33:37	Warning: 	File has moved from localhost/dada/?p=2321 to http://localhost/dada/blog/
+22:33:37	Warning: 	Moved Permanently for localhost/dada/?p=2325
+22:33:37	Warning: 	File has moved from localhost/dada/?p=2325 to http://localhost/dada/contact/
+22:33:37	Warning: 	Moved Permanently for localhost/dada/?p=1
+22:33:37	Warning: 	File has moved from localhost/dada/?p=1 to http://localhost/dada/hello-world/
+22:33:41	Warning: 	Moved Permanently for localhost/dada/?p=2287
+22:33:41	Warning: 	File has moved from localhost/dada/?p=2287 to http://localhost/dada/vivamus-non-augue-mauris-amet/
+22:34:09	Warning: 	Moved Permanently for localhost/dada/?p=2284
+22:34:09	Warning: 	File has moved from localhost/dada/?p=2284 to http://localhost/dada/donec-vel-eros-mauris-amet-suspendisse-in-erat-mi-sed/
+22:34:09	Warning: 	Moved Permanently for localhost/dada/?p=2275
+22:34:09	Warning: 	File has moved from localhost/dada/?p=2275 to http://localhost/dada/4-2/
+22:34:25	Warning: 	Moved Permanently for localhost/dada/?p=2277
+22:34:25	Warning: 	File has moved from localhost/dada/?p=2277 to http://localhost/dada/vestibulum-commodo-volutpat/
+22:34:26	Warning: 	Moved Permanently for localhost/dada/?p=2281
+22:34:26	Warning: 	File has moved from localhost/dada/?p=2281 to http://localhost/dada/vivamus-sit-amet-metus-sem/
+22:34:32	Warning: 	Found for localhost/dada/wp-admin/
+22:34:32	Warning: 	File has moved from localhost/dada/wp-admin/ to http://localhost/dada/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fdada%2Fwp-admin%2F&reauth=1
+22:34:33	Warning: 	Moved Permanently for localhost/dada/?p=2279
+22:34:33	Warning: 	File has moved from localhost/dada/?p=2279 to http://localhost/dada/quisque-lorem-tortor-fringilla/
+22:34:41	Error: 	"Not Found" (404) at link localhost/dada/wp-admin/&reauth=1 (from localhost/dada/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fdada%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 42 seconds : 246 links scanned, 231 files written (10170016 bytes overall) [10216554 bytes received at 25414 bytes/sec], 160078 bytes transferred using HTTP compression in 2 files, ratio 34%, 2.7 requests per connection
+(2 errors, 25 warnings, 0 messages)
